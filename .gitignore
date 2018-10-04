@@ -4,3 +4,5 @@
 *.toc
 *.gz
 .DS_Store
+#teamnote.pdf
+src/WithYou/teamidpw.txt
